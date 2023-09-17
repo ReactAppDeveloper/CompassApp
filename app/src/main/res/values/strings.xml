@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7517973463724195/5936152693</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_menu_settings">settings</string>
+    <string name="action_about_title">About</string>
+    <string name="white_title">White When On</string>
+    <string name="white_summary">Turn the background white when the light is on.</string>
+    <string name="pref_white">white</string>
+    <string name="pref_long_press">long_press</string>
+    <string name="pref_long_press_title">Long Press</string>
+    <string name="pref_long_press_summary">Toggle the flashlight with a long press anywhere on the screen.</string>
+    <string name="about_pos_btn_text">Love It!</string>
+    <string name="about_neg_button_text">Needs Work</string>
+    <string name="about_meh_btn_text">Maybe Later</string>
+    <string name="about_rate_heading">Flashlight Rating</string>
+    <string name="about_rate_text">what you think?</string>
+    <string name="about_intro_text">Flashlight.</string>
+</resources>
